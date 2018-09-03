@@ -1,13 +1,18 @@
+body {
+  display: grid;
+  justify-content: center;
+}
 th {
   background-color: #333334;
   color: white;
 }
 
-.creature_image {
-  max-height: 200px;
-}
-
 td {
   border: 2px solid black;
   font-size: 1.2em;
+}
+
+
+.creature_image {
+  max-height: 200px;
 }
